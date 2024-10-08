@@ -5,9 +5,13 @@ This project focuses on evaluating deep learning models for the classification o
 ## We evaluated the following models:
 
 ResNet: A residual learning framework that helps prevent vanishing gradients in deep networks.
+
 DenseNet: A model that connects each layer to every other layer in a feed-forward fashion, promoting feature reuse.
+
 Custom CNN: A tailored convolutional neural network designed specifically for the dataset to optimize performance on this classification task.
+
 Each model was tested using different preprocessing and data augmentation techniques to improve classification accuracy and robustness.
+
 
 ## Authors
 - Davide Christian Mancosu Bustos
